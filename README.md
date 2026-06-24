@@ -8,4 +8,6 @@ On first launch the single EXE installs itself for the current Windows user and 
 
 After server creation, unturnedDS starts the first launch automatically and displays the live Server Code in the app when the world is online.
 
+Cloud snapshots preserve world/server data while excluding redownloadable Workshop content for faster shutdowns and restarts.
+
 Steam credentials are never collected by unturnedDS. Steam verification uses the installed Steam client and local library manifests.
